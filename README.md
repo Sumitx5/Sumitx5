@@ -1,17 +1,44 @@
-## Hi there 👋
-Check Out My Live Portfolio Website
-[Portfolio](https://sumitx5.github.io/Sumit/)
-<!--
-**Sumitx5/Sumitx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sumit! 👋
 
-Here are some ideas to get you started:
+I'm a passionate **Computer Science & Engineering student** and an independent developer focused on creating games, automated tools, and responsive mobile applications. I love diving into complex codebases, tinkering with game physics, and building automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Tech Stack & Tools
+
+*   **Languages:** Python, Kotlin, GDScript, Java, JavaScript, MySQL
+*   **Game Development:** Godot Engine (3D & Physics mechanics)
+*   **Mobile App Development:** Android Studio
+*   **Automation & Bots:** `discord.py`, Mineflayer (Node.js)
+*   **Data Formats:** JSON, YAML
+
+---
+
+### Featured Projects
+
+#### [Muzix X](https://github.com/Sumitx5/Muzix_X)
+A Simple Musci Streaming App With Material 3 Expressive UI, it Supports Online/Offline Music Streaming [Click](https://github.com/Sumitx5/Muzix_X) to More About this Project. Made With **Android Studio**.
+
+#### Advanced Discord Bots
+*   Built and maintained custom bots utilizing the `discord.py` framework.
+*   Implemented rich feature sets including robust economy systems, advanced logging pipelines, and high-performance music playback.
+
+#### ⛏️ Minecraft Automation & Plugins
+*   Developed custom **Skyblock** server mechanics featuring RPG-style stat progression and unique custom armor sets.
+*   Created automated multi-server bot instances using **Mineflayer** to handle repetitive in-game tasks and testing.
+
+---
+
+### GitHub Stats
+
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitx5&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitx5&layout=compact&theme=gotham)
+
+---
+
+### Let's Connect!
+
+*   **Discord:** Feel free to catch me hanging out in developer servers working on bots!
+*   **GitHub:** You're already here—drop a ⭐ on projects you like!
+
+*"Turning coffee and logic into interactive 3D worlds and automated scripts."*
