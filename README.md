@@ -23,7 +23,7 @@ A Simple Musci Streaming App With Material 3 Expressive UI, it Supports Online/O
 *   Built and maintained custom bots utilizing the `discord.py` framework.
 *   Implemented rich feature sets including robust economy systems, advanced logging pipelines, and high-performance music playback.
 
-#### ⛏️ Minecraft Automation & Plugins
+#### Minecraft Automation & Plugins
 *   Developed custom **Skyblock** server mechanics featuring RPG-style stat progression and unique custom armor sets.
 *   Created automated multi-server bot instances using **Mineflayer** to handle repetitive in-game tasks and testing.
 
