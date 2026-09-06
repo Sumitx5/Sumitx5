@@ -31,8 +31,7 @@ A Simple Musci Streaming App With Material 3 Expressive UI, it Supports Online/O
 
 ### GitHub Stats
 
-![Git Stats](https://github-stats-extended.vercel.app/api?username=Sumitx5&rank_icon=github&custom_title=Git%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Sumitx5&langs_count=4&theme=chartreuse-dark)
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Sumitx5&langs_count=4&theme=chartreuse-dark) ![Git Stats](https://github-stats-extended.vercel.app/api?username=Sumitx5&rank_icon=github&custom_title=Git%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
 ---
 
