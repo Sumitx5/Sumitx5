@@ -38,8 +38,8 @@ A Simple Musci Streaming App With Material 3 Expressive UI, it Supports Online/O
 ### Let's Connect!
 
 *   **[Discord]():** Feel free to catch me hanging out in developer servers working on bots!
-*   **[Insta](https://www.instagram.com/Sumit_x1.1)** My Instagram!
-*   **[LinkedIn](https://www.linkedin.com/in/Sumitx5)** My LinkedIn!
+*   **[Insta](https://www.instagram.com/Sumit_x1.1):** My Instagram!
+*   **[LinkedIn](https://www.linkedin.com/in/Sumitx5):** My LinkedIn!
 *   **GitHub:** You're already here—drop a ⭐ on projects you like!
 
 *"Turning coffee and logic into interactive 3D worlds and automated scripts."*
